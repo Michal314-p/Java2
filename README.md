@@ -5,8 +5,10 @@ Możliwości:
 - dodawanie liczb z etykietą do listy
 - wyświetlanie informacji o algorytmie sortującym
 - wyświetlenie informacji o programie
-- zmiana języka programu na: polski, hiszpański, niemiecki i angielski
+- zmiana języka programu na: polski, hiszpański i angielski
 - wyświetlanie daty odpowiedniej dla wybranego kraju/języka
 
-Przykład działania aplikacji
-
+Przykład działania aplikacji w języku angielskim:  
+![Screenshot](eng.png)  
+Przykład działania aplikacji w języku polskim:  
+![Screenshot](pl.png)
