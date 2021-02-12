@@ -1,2 +1,2 @@
-# Java2
-Ćwiczenie 2. JavaFX oraz internacjonalizacja.
+# JavaFX
+Aplikacja wykorzystuje JavaFX oraz jar wykonany w repozytorium 
